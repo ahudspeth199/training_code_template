@@ -2,8 +2,8 @@
     "launch": {
         "configurations": [
             {
-                "name": "Python: Current File",
-                "type": "python",
+                "name": "JavaScript: Current File",
+                "type": "javascript",
                 "request": "launch",
                 "program": "${file}",
                 "console": "integratedTerminal",
